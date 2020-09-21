@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "Albert Einstein",
+    "occupation": "Theoretical Physicist",
+    "nationality": "German",
+    "image": "https://images.findagrave.com/photos250/photos/2017/190/314_1499742183.jpg"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "Isaac Newton",
+    "occupation": "Mathematician, Physicist, Astronomer",
+    "nationality": "English",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "Marie Curie",
+    "occupation": "physicist and Chemist",
+    "nationality": "Polish",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "Galileo Galilei",
+    "occupation": "Astronomer, Physicist and Engineer",
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "Charles Darwin",
+    "occupation": "Naturalist, Geologist and Biologist",
+    "nationality": "English",
+    "image": "https://www.biography.com/.image/t_share/MTE5NDg0MDU0OTM4NjE3MzU5/charles-darwin-9266433-1-402.jpg"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "Stephen Hawking",
+    "occupation": "Theoretical Physicist, Cosmologist",
+    "nationality": "English",
+    "image": "https://www.gstatic.com/tv/thumb/persons/315047/315047_v9_ba.jpg"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "James Watson",
+    "occupation": "Biologist, Geneticist and Zoologist",
+    "nationality": "American",
+    "image": "https://www.nobelprize.org/images/watson-13155-portrait-medium.jpg"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "Francis Crick",
+    "occupation": "Molecular Biologist, and Neuroscientist",
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Francis_Crick_crop.jpg"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "Nicolaus Copernicus",
+    "occupation": "Mathematician and Astronomer",
+    "nationality": "Polish",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nikolaus_Kopernikus.jpg"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "Nikola Tesla",
+    "occupation": "Electrical and Mechanical Engineer",
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "Thomas Edison",
+    "occupation": "Inventor and Businessman",
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Thomas_Edison.jpg/220px-Thomas_Edison.jpg"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "Rosalind Franklin",
+    "occupation": "Chemist and X-ray Crystallographer",
+    "nationality": "English",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Rosalind_Franklin_%281920-1958%29.jpg"
+  }
+]
